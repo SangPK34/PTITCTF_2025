@@ -65,7 +65,7 @@ Bây giờ thay đổi giá trị tiền hiện có ở game, sau đó lọc ti�
 
 <img width="1751" height="738" alt="image" src="https://github.com/user-attachments/assets/9b8b2436-dd42-4ec6-ad9c-2386e2b46c60" />
 
-BÙMMMM
+BÙMMMM!
 
 
 >### 🎯 Flag: ***PTITCTF{PTIT_Futures_is_a_crypt0currency_futures_trading_platf0rm_and_sh0rt_BTC_set_up_n0w!!!}***
