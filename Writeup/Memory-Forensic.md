@@ -132,7 +132,7 @@ PY
 ```
 <img width="771" height="263" alt="image" src="https://github.com/user-attachments/assets/f1c2a1b4-2288-40f7-be0d-7f0d1947e06d" />
 
-Mở thử bằng word, thì ngon luôn:  
+Mở thử bằng word, thì ngon luôn!  
 
 <img width="1216" height="875" alt="image" src="https://github.com/user-attachments/assets/0696221a-75b5-44c3-b206-eaf1e72e9aa8" />
 
