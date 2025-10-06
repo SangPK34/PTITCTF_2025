@@ -12,4 +12,3 @@ YEAHH...
 
 ![PTITCTF_ahihi](https://github.com/user-attachments/assets/743cf401-0e66-4000-8056-69d4bb7944b2)
 <br>
-![PTITCTF_cert](https://github.com/user-attachments/assets/786affc4-c65b-471a-9bca-f4b2839b0212)
