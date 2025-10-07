@@ -11,4 +11,3 @@ YEAHH...
 > ### 🎯 Flag: `PTITCTF{R00t_4nd_B00t}`
 
 ![PTITCTF_ahihi](https://github.com/user-attachments/assets/743cf401-0e66-4000-8056-69d4bb7944b2)
-<br>
