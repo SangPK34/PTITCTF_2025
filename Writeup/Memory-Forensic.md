@@ -1,9 +1,4 @@
-## 🕵️‍♂️ Challenge:
-### Trong môi trường thực hành của tôi đang bị nhiễm 1 số mã độc, người dùng đã gỡ bỏ nó nhưng vẫn còn dấu vết,có vẻ như họ cố tình để lại cho tôi 1 số thông điệp. Hãy tìm kiếm và giải mã.  
-<img width="505" height="390" alt="image" src="https://github.com/user-attachments/assets/3c2f39b1-132f-442a-9030-9bba982610f0" />  
-
-## 📝 Solution:
-Tải file về và giải nén, ta được một file có tên `memory.raw`, kiểm tra bằng lệnh `file` thì nó báo là data, mình mở thử bằng notepad thì thấy có vẻ đây là 1 ổ đĩa## 🕵️‍♂️ Challenge:
+🕵️‍♂️ Challenge:
 ### Trong môi trường thực hành của tôi đang bị nhiễm 1 số mã độc, người dùng đã gỡ bỏ nó nhưng vẫn còn dấu vết,có vẻ như họ cố tình để lại cho tôi 1 số thông điệp. Hãy tìm kiếm và giải mã.  
 <img width="505" height="390" alt="image" src="https://github.com/user-attachments/assets/3c2f39b1-132f-442a-9030-9bba982610f0" />  
 
