@@ -1,5 +1,5 @@
 ## 🕵️‍♂️ Challenge:
-### <img width="600" height="426" alt="image" src="https://github.com/user-attachments/assets/01de98ce-7061-458d-a125-1a7bd4fa61ef" />
+<img width="600" height="426" alt="image" src="https://github.com/user-attachments/assets/01de98ce-7061-458d-a125-1a7bd4fa61ef" />
 
 
 ## 📝 Solution:
